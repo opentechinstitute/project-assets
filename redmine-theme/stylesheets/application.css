@@ -1,5 +1,6 @@
 /* load the default Redmine stylesheet */
-@import url(../../../stylesheets/application.css);
+@import url(../../../stylesheets/application.css) screen;
+@import url(print.css) print;
 
 @font-face {
     font-family: 'AsapRegular';
