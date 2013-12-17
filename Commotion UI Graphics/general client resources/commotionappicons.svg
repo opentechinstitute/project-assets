@@ -13,7 +13,7 @@
    height="200"
    id="svg3035"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="commotionappicons.svg"
    inkscape:export-filename="/home/critzo/SparkleShare/oti/Projects/Commotion/Graphics/gateway_node.png"
    inkscape:export-xdpi="320"
@@ -35,18 +35,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0097657"
-     inkscape:cx="120.14866"
-     inkscape:cy="93.390291"
-     inkscape:current-layer="g3967"
+     inkscape:zoom="2.9433908"
+     inkscape:cx="103.26441"
+     inkscape:cy="76.160887"
+     inkscape:current-layer="layer18"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1009"
-     inkscape:window-height="524"
-     inkscape:window-x="27"
-     inkscape:window-y="43"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1145"
+     inkscape:window-x="1366"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata3040">
     <rdf:RDF>
@@ -63,7 +63,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Layer#3"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#808000;fill-opacity:1"
        id="rect3815"
@@ -86,7 +87,10 @@
        sodipodi:rx="72.5"
        sodipodi:ry="73"
        d="m 189,109 a 72.5,73 0 1 1 -145,0 72.5,73 0 1 1 145,0 z"
-       transform="translate(-14,-10)" />
+       transform="translate(-14,-10)"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/about_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -238,7 +242,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="gateway - pink center"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:type="arc"
        style="fill:#f24e9c;fill-opacity:1"
@@ -251,6 +255,32 @@
        transform="matrix(0.96732026,0,0,1.0895522,-14.562092,-10.044776)" />
   </g>
   <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="point"
+     style="display:inline">
+    <path
+       sodipodi:type="star"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3084"
+       sodipodi:sides="3"
+       sodipodi:cx="106.92121"
+       sodipodi:cy="-127.8917"
+       sodipodi:r1="27.104692"
+       sodipodi:r2="13.552346"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 106.92121,-100.78701 -11.736675,-20.32852 -11.736676,-20.32852 23.473351,0 23.47335,0 -11.73667,20.32852 z"
+       inkscape:transform-center-y="13.243208"
+       transform="matrix(1.9543818,0,0,1.9543818,-107.64429,453.7201)"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/about_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597" />
+  </g>
+  <g
      style="display:inline"
      transform="translate(0,152)"
      inkscape:groupmode="layer"
@@ -260,7 +290,10 @@
        inkscape:connector-curvature="0"
        id="path3797"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 182.73597,-51.498011 -15.98296,0 c -0.0106,18.123486 -7.32869,34.381212 -19.23798,46.2713816 C 135.57577,6.6297827 119.25649,13.915415 101.03577,13.920577 82.821693,13.915547 66.471141,6.6248189 54.514933,-5.2355644 42.582357,-17.125747 35.253722,-33.381143 35.244621,-51.498011 c 0.008,-18.149299 7.341728,-34.398103 19.267997,-46.277998 11.955862,-11.857731 28.301437,-19.138101 46.523152,-19.148381 18.22573,0.0106 34.54799,7.288 46.47926,19.139433 11.90929,11.87595 19.22632,28.128699 19.23798,46.286946 l 31.96693,0 c 0.0106,-26.810291 -10.94096,-51.222379 -28.59516,-68.768069 -17.62661,-17.57017 -42.15576,-28.46722 -69.08901,-28.4583 -26.933227,-0.008 -51.472707,10.8845 -69.117678,28.44938 -17.670864,17.53907 -28.6471299,41.950152 -28.6380285,68.776989 -0.00798,26.803672 10.9710505,51.2094575 28.6354205,68.75111 17.643587,17.567531 42.180725,28.480322 69.120286,28.471274 26.93955,0.009 51.46905,-10.903743 69.09167,-28.477726 17.65154,-17.5441355 28.60314,-41.949934 28.5925,-68.744658 l -15.98397,0" />
+       d="m 182.73597,-51.498011 -15.98296,0 c -0.0106,18.123486 -7.32869,34.381212 -19.23798,46.2713816 C 135.57577,6.6297827 119.25649,13.915415 101.03577,13.920577 82.821693,13.915547 66.471141,6.6248189 54.514933,-5.2355644 42.582357,-17.125747 35.253722,-33.381143 35.244621,-51.498011 c 0.008,-18.149299 7.341728,-34.398103 19.267997,-46.277998 11.955862,-11.857731 28.301437,-19.138101 46.523152,-19.148381 18.22573,0.0106 34.54799,7.288 46.47926,19.139433 11.90929,11.87595 19.22632,28.128699 19.23798,46.286946 l 31.96693,0 c 0.0106,-26.810291 -10.94096,-51.222379 -28.59516,-68.768069 -17.62661,-17.57017 -42.15576,-28.46722 -69.08901,-28.4583 -26.933227,-0.008 -51.472707,10.8845 -69.117678,28.44938 -17.670864,17.53907 -28.6471299,41.950152 -28.6380285,68.776989 -0.00798,26.803672 10.9710505,51.2094575 28.6354205,68.75111 17.643587,17.567531 42.180725,28.480322 69.120286,28.471274 26.93955,0.009 51.46905,-10.903743 69.09167,-28.477726 17.65154,-17.5441355 28.60314,-41.949934 28.5925,-68.744658 l -15.98397,0"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/about_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597" />
   </g>
   <g
      style="display:none"
@@ -370,12 +403,70 @@
        d="m 114.35914,101.20217 -7.40735,0 c -0.003,1.72167 -0.68666,3.21233 -1.82766,4.34577 -1.15344,1.11948 -2.66836,1.79263 -4.41951,1.79507 -1.746882,-0.002 -3.254681,-0.66896 -4.404195,-1.79261 -1.139579,-1.1331 -1.826236,-2.62376 -1.829083,-4.34823 0.0028,-3.381832 2.785422,-6.119171 6.233278,-6.123002 3.46175,0.0028 6.24432,2.74816 6.24717,6.123002 l 14.81471,0 c -0.003,-11.420494 -9.42819,-20.672639 -21.06188,-20.675435 -11.630813,0.0028 -21.043719,9.259135 -21.047988,20.675435 0.0028,11.42189 9.410059,20.68768 21.047988,20.69467 11.64081,-0.006 21.05795,-9.26999 21.06188,-20.69467 l -7.40736,0"
        style="fill:#79d3f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path3037"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/advanced_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597" />
     <path
        inkscape:connector-curvature="0"
        id="path26"
        style="fill:#79d3f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 136.12315,101.01377 -7.40773,0 c -0.003,7.61539 -3.11589,14.44163 -8.18828,19.43468 -5.08945,4.98711 -12.03287,8.04949 -19.77927,8.05228 -7.743924,-0.003 -14.685576,-3.06098 -19.773583,-8.05228 -5.074145,-4.99305 -8.187226,-11.81929 -8.190073,-19.43468 0.0028,-7.604579 3.115928,-14.429406 8.190073,-19.423513 5.088007,-4.987465 12.029659,-8.045652 19.773583,-8.048098 7.7464,0.0024 14.68982,3.060633 19.77927,8.048098 5.07239,4.994107 8.18547,11.818934 8.18828,19.423513 l 14.81509,0 c -0.006,-23.205179 -19.15097,-42.018794 -42.78264,-42.025434 -23.630246,0.0067 -42.77162,18.820255 -42.778366,42.025434 0.0057,23.21775 19.14812,42.03381 42.778366,42.04044 23.63167,-0.006 42.77552,-18.82269 42.78264,-42.04044 l -7.40736,0" />
+       d="m 136.12315,101.01377 -7.40773,0 c -0.003,7.61539 -3.11589,14.44163 -8.18828,19.43468 -5.08945,4.98711 -12.03287,8.04949 -19.77927,8.05228 -7.743924,-0.003 -14.685576,-3.06098 -19.773583,-8.05228 -5.074145,-4.99305 -8.187226,-11.81929 -8.190073,-19.43468 0.0028,-7.604579 3.115928,-14.429406 8.190073,-19.423513 5.088007,-4.987465 12.029659,-8.045652 19.773583,-8.048098 7.7464,0.0024 14.68982,3.060633 19.77927,8.048098 5.07239,4.994107 8.18547,11.818934 8.18828,19.423513 l 14.81509,0 c -0.006,-23.205179 -19.15097,-42.018794 -42.78264,-42.025434 -23.630246,0.0067 -42.77162,18.820255 -42.778366,42.025434 0.0057,23.21775 19.14812,42.03381 42.778366,42.04044 23.63167,-0.006 42.77552,-18.82269 42.78264,-42.04044 l -7.40736,0"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/advanced_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="help"
+     style="display:none">
+    <g
+       transform="matrix(22.222067,0,0,22.222067,-791.55968,-524.29953)"
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#874e9c;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
+       id="flowRoot3106"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/help_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597">
+      <path
+         d="m 40.450195,29.234537 -0.74707,0 c -0.002,-0.107421 -0.0029,-0.172851 -0.0029,-0.196289 -1e-6,-0.242186 0.04004,-0.441405 0.120117,-0.597657 0.08008,-0.156248 0.240233,-0.332029 0.480469,-0.527343 0.240232,-0.19531 0.383787,-0.32324 0.430664,-0.383789 0.07226,-0.0957 0.108396,-0.201169 0.108399,-0.316407 -3e-6,-0.160153 -0.06446,-0.296871 -0.19336,-0.410156 -0.126955,-0.115231 -0.29883,-0.172848 -0.515625,-0.172851 -0.208986,3e-6 -0.38379,0.05957 -0.524414,0.17871 -0.140626,0.119145 -0.237305,0.300785 -0.290039,0.544922 l -0.755859,-0.09375 c 0.02148,-0.349606 0.169921,-0.64648 0.445312,-0.890625 0.277343,-0.244136 0.640624,-0.366206 1.089844,-0.366211 0.472654,5e-6 0.84863,0.124028 1.12793,0.372071 0.279293,0.246097 0.418942,0.533206 0.418945,0.861328 -3e-6,0.181643 -0.05176,0.353518 -0.155273,0.515625 -0.101566,0.162112 -0.320316,0.382815 -0.65625,0.662109 -0.173831,0.144533 -0.282229,0.260744 -0.325196,0.348633 -0.04102,0.08789 -0.05957,0.245119 -0.05566,0.47168 m -0.74707,1.107422 0,-0.823243 0.823242,0 0,0.823243 -0.823242,0"
+         style="fill:#874e9c;fill-opacity:1"
+         id="path3115"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="about"
+     style="display:inline">
+    <g
+       style="font-size:117.67883301000000529px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6fff84;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
+       id="text3118"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/about_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597">
+      <path
+         d="m 92.392093,72.563179 0,-14.939696 16.146367,0 0,14.939696 -16.146367,0 m 0,69.297201 0,-61.022908 16.146367,0 0,61.022908 -16.146367,0"
+         style="fill:#6fff84;fill-opacity:1"
+         id="path3123"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="license"
+     style="display:none">
+    <path
+       style="color:#000000;fill:#d9e70c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 91.561561,64.531681 c -0.3638,-0.01147 -0.719892,0.01398 -1.072063,0.067 -2.817365,0.424233 -5.559074,1.302922 -8.375491,2.579651 -2.816415,1.276729 -5.496076,2.78782 -8.341988,5.125801 -2.845912,2.337979 -6.210936,6.643004 -8.341989,9.012028 -2.131054,2.369023 -2.098786,5.006854 -4.522765,5.159302 -3.466341,0.04624 -7.963357,-9.435579 -10.251601,-12.864754 -3.111998,-4.376629 -6.505389,-5.967714 -6.633389,0 -0.127996,5.967723 0.236615,11.851777 1.7086,15.511409 1.524599,3.653356 4.832637,7.833016 9.648566,11.893202 2.557909,1.45188 6.576665,3.37073 10.050589,2.21113 -0.719275,3.2375 0.771542,6.84079 3.122229,9.77812 11.656348,14.56537 12.440148,40.55944 30.044714,40.55944 17.604567,0 19.668987,-26.6491 31.860357,-40.35398 2.9622,-3.32994 2.15349,-7.96394 0.87106,-11.72568 2.10797,1.46778 4.93836,1.89793 7.30342,1.97661 7.31227,-2.20643 12.86213,-7.34801 15.44441,-13.735807 1.64508,-5.142048 1.81981,-15.842296 -1.87611,-20.536703 -4.017,-4.932877 -4.98682,3.740516 -6.56639,9.916581 -1.25752,2.65058 -1.53621,7.051759 -5.02529,7.370432 -3.48908,0.318674 -5.58414,-5.381748 -8.37549,-7.738954 -4.91325,-4.136256 -7.55526,-7.850989 -13.73581,-11.089149 -2.8164,-1.27673 -8.5063,-2.624446 -11.32366,-3.048679 -2.81736,-0.424231 -5.05493,1.474086 -7.839453,1.474086 -2.436459,0 -5.225856,-1.460814 -7.772456,-1.541086 z"
+       id="path3155"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scsssccscccssscccccsccsss"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/license_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -386,7 +477,10 @@
        inkscape:connector-curvature="0"
        id="path50"
        style="fill:#7b6dbd;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 87.001593,142.68698 14.597417,-14.13536 14.53633,14.06063 0,-71.74999 -14.53633,-14.05365 -14.597417,14.12841 0,71.74996" />
+       d="m 87.001593,142.68698 14.597417,-14.13536 14.53633,14.06063 0,-71.74999 -14.53633,-14.05365 -14.597417,14.12841 0,71.74996"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/upload_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -400,7 +494,10 @@
      style="display:none">
     <g
        id="g3109"
-       transform="matrix(2.5511583,2.4868186,-2.5144443,2.5794988,101.30694,-427.94818)">
+       transform="matrix(2.5511583,2.4868186,-2.5144443,2.5794988,101.30694,-427.94818)"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/setupwiz_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597">
       <path
          id="path48-2"
          style="fill:#d9e70c;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -502,7 +599,10 @@
      style="display:none">
     <g
        id="g3958"
-       transform="matrix(1.1676719,0,0,1.1676719,-23.086643,-19.768405)">
+       transform="matrix(1.1676719,0,0,1.1676719,-23.086643,-19.768405)"
+       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/approve_point.png"
+       inkscape:export-xdpi="22.014597"
+       inkscape:export-ydpi="22.014597">
       <path
          id="path48-6-3"
          style="fill:#877aed;fill-opacity:1;fill-rule:nonzero;stroke:none"
