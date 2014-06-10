@@ -1,0 +1,10 @@
+name: "graphics.opentechinstitute.org"
+description: "An archive of graphical assets for the Open Technology Institute"
+
+encoding: utf-8
+
+url: "graphics.opentechinstitute.org"
+port: 80
+
+markdown: kramdown
+
