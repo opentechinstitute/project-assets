@@ -7,4 +7,4 @@ menu:
   parent: commotion
   position: 1
 ---
-{% image_set Commotion/ %}
+{% image_set Commotion/Basic-Elements/ %}

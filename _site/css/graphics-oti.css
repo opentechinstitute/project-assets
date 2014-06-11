@@ -26,15 +26,17 @@ h3 {
   margin: .3em;
 }
 .container {
-  margin-right: auto;
-  margin-left: auto;
-  padding-top: 35px;
+  width: 75%;
+  margin-left: 1em;
+  float: left;
 }
-#topmenu {
-  width: 100%
-  max-height: 200px;
+.leftmenu {
+  width: 20%;
+  float: left;
 }
-#topmenu ul li {
+.bread {
+  width: 100%;
+  display: block;
   float: left;
 }
 ol.breadcrumbs {
