@@ -6,6 +6,7 @@ h2 {
   display: block;
   padding: .3em;
   width: 80%;
+}
 h3 {
   font-size: 1.5em;
   display: block;
@@ -35,4 +36,17 @@ h3 {
 }
 #topmenu ul li {
   float: left;
+}
+ol.breadcrumbs {
+  font-size: 1.2em;
+  list-style: none;
+  list-style-type: none;
+}
+ol.breadcrumbs li {
+  display: block;
+  margin: .5em;
+  float: left;
+}
+ol.breadcrumbs li.active {
+  font-weight: bold;
 }

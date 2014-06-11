@@ -1,7 +1,10 @@
 ---
-title: "OTI Graphical Assets Browser"
+title: "Commotion"
 layout: default
 lang: en
+menu:
+  name: commotion
+  parent: main
+  position: 5
 ---
-{% get_dirs %}
 {% image_set Commotion/ %}

@@ -11,18 +11,18 @@ module Jekyll
     end
 
     def render(context)
-      thisdir = Dir.glob("/")
-      dirs = Dir.glob("**/")
-      html = '<div id="topmenu"><h2>'
-      thisdir.each do |d|
-	html += '<a href="'
-        html += d
-	html += '">'
-	html += d
-	html += '</a>'
-      end
-      html += '</h2>'
-      html += '<ul>'
+      #thisdir = Dir.glob(".")
+      thisdir = File.basename(Dir.getwd)
+      dirs = Dir.glob("*/")
+
+#      thisdir.each do |d|
+#	html += '<a href="'
+#        html += d
+#	html += '">'
+#	html += d
+#	html += '</a>'
+#      end
+      html = '<ul>'
       dirs.each do |dir|
       #thisdir.each do |dir|
 	case dir
@@ -44,7 +44,7 @@ module Jekyll
 	  html += '</a></li>' 
 	end
       end
-      html += '</ul></div>'
+      html += '</ul>'
       html
     end
   end
