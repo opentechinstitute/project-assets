@@ -66,17 +66,18 @@ module Jekyll
       # Include a filter for all supported file types
       full_path = File.join(context.registers[:site].config['source'], @path, "*.{txt,rtf,pdf,ai,pdf,doc,docx,ppt,pptx}")
       # Start building tags
-      source = "<#{@container_tag} class='file-set'>\n"
+      source = "<div class='container'><h3 id='addtl-files'>Additional Files in this Folder:</h3>\n"
+      source += "<#{@container_tag} class='file-set'>\n"
       # Glob the path and create tags for all files
-      Dir.glob(full_path).each do |fileset|
+      Dir.glob(full_path).sort.each do |fileset|
         file = Pathname.new(fileset).basename
         src = File.join('/', @path, file)
         source += "<#{@wrap_tag} class='#{@wrap_class}' title='#{file}' alt='#{file}'>\n"
-        source += "<a href='#{src}'><img src='#{src}' class='#{@class}'></a><br />#{file} \n"
+        source += "<a href='#{src}'>#{file}</a> \n"
         source += "</#{@wrap_tag}>\n"
       end
       # Close it up 
-      source += "</#{@container_tag}>\n"
+      source += "</#{@container_tag}></div>\n"
       source
     end
   end

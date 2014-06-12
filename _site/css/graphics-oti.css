@@ -53,3 +53,6 @@ ol.breadcrumbs li {
 ol.breadcrumbs li.active {
   font-weight: bold;
 }
+.files-link {
+  text-align: right;
+}

@@ -8,3 +8,4 @@ menu:
   position: 1
 ---
 {% image_set Commotion/Basic-Elements/Buildings/ %}
+{% file_set Commotion/Basic-Elements/Buildings/ %}

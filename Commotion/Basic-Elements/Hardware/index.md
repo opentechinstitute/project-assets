@@ -8,3 +8,4 @@ menu:
   position: 5
 ---
 {% image_set Commotion/Basic-Elements/Hardware/ %}
+{% file_set Commotion/Basic-Elements/Hardware/ %}

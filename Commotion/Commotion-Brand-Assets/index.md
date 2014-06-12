@@ -8,3 +8,4 @@ menu:
   position: 5
 ---
 {% image_set Commotion/Commotion-Brand-Assets/ %}
+{% file_set Commotion/Commotion-Brand-Assets/ %}

@@ -8,3 +8,4 @@ menu:
   position: 25
 ---
 {% image_set Commotion/Basic-Elements/Wireless-Signals/ %}
+{% file_set Commotion/Basic-Elements/Wireless-Signals/ %}
