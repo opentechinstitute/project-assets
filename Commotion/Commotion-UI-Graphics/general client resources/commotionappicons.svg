@@ -13,7 +13,7 @@
    height="200"
    id="svg3035"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="commotionappicons.svg"
    inkscape:export-filename="/home/critzo/SparkleShare/oti/Projects/Commotion/Graphics/gateway_node.png"
    inkscape:export-xdpi="320"
@@ -35,16 +35,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.9433908"
-     inkscape:cx="103.26441"
-     inkscape:cy="76.160887"
-     inkscape:current-layer="layer18"
+     inkscape:zoom="2.200006"
+     inkscape:cx="242.45223"
+     inkscape:cy="52.794247"
+     inkscape:current-layer="layer24"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1145"
-     inkscape:window-x="1366"
+     inkscape:window-height="1141"
+     inkscape:window-x="1280"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
@@ -77,7 +77,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="white circle"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1"
@@ -88,9 +88,9 @@
        sodipodi:ry="73"
        d="m 189,109 a 72.5,73 0 1 1 -145,0 72.5,73 0 1 1 145,0 z"
        transform="translate(-14,-10)"
-       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/about_point.png"
-       inkscape:export-xdpi="22.014597"
-       inkscape:export-ydpi="22.014597" />
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-ydpi="11.362372" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -258,7 +258,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="point"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:type="star"
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -276,12 +276,12 @@
        d="m 106.92121,-100.78701 -11.736675,-20.32852 -11.736676,-20.32852 23.473351,0 23.47335,0 -11.73667,20.32852 z"
        inkscape:transform-center-y="13.243208"
        transform="matrix(1.9543818,0,0,1.9543818,-107.64429,453.7201)"
-       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/about_point.png"
-       inkscape:export-xdpi="22.014597"
-       inkscape:export-ydpi="22.014597" />
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-ydpi="11.362372" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      transform="translate(0,152)"
      inkscape:groupmode="layer"
      inkscape:label="gateway - black circle"
@@ -291,9 +291,9 @@
        id="path3797"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 182.73597,-51.498011 -15.98296,0 c -0.0106,18.123486 -7.32869,34.381212 -19.23798,46.2713816 C 135.57577,6.6297827 119.25649,13.915415 101.03577,13.920577 82.821693,13.915547 66.471141,6.6248189 54.514933,-5.2355644 42.582357,-17.125747 35.253722,-33.381143 35.244621,-51.498011 c 0.008,-18.149299 7.341728,-34.398103 19.267997,-46.277998 11.955862,-11.857731 28.301437,-19.138101 46.523152,-19.148381 18.22573,0.0106 34.54799,7.288 46.47926,19.139433 11.90929,11.87595 19.22632,28.128699 19.23798,46.286946 l 31.96693,0 c 0.0106,-26.810291 -10.94096,-51.222379 -28.59516,-68.768069 -17.62661,-17.57017 -42.15576,-28.46722 -69.08901,-28.4583 -26.933227,-0.008 -51.472707,10.8845 -69.117678,28.44938 -17.670864,17.53907 -28.6471299,41.950152 -28.6380285,68.776989 -0.00798,26.803672 10.9710505,51.2094575 28.6354205,68.75111 17.643587,17.567531 42.180725,28.480322 69.120286,28.471274 26.93955,0.009 51.46905,-10.903743 69.09167,-28.477726 17.65154,-17.5441355 28.60314,-41.949934 28.5925,-68.744658 l -15.98397,0"
-       inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/about_point.png"
-       inkscape:export-xdpi="22.014597"
-       inkscape:export-ydpi="22.014597" />
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-ydpi="11.362372" />
   </g>
   <g
      style="display:none"
@@ -439,9 +439,9 @@
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="about"
-     style="display:inline">
+     style="display:none">
     <g
-       style="font-size:117.67883301000000529px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6fff84;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
+       style="font-size:117.67883301px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6fff84;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
        id="text3118"
        inkscape:export-filename="/home/s2e/repo/commotion-dev/project-assets/Commotion UI Graphics/general client resources/about_point.png"
        inkscape:export-xdpi="22.014597"
@@ -452,6 +452,208 @@
          id="path3123"
          inkscape:connector-curvature="0" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer20"
+     inkscape:label="user"
+     style="display:none">
+    <path
+       inkscape:connector-curvature="0"
+       id="path40-4-9-2-8-3-0-8"
+       style="fill:#63ccf5;fill-opacity:1;stroke:#63ccf5;stroke-width:4.74831438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 142.90522,100.57796 0,18.57945 c 0,11.86163 -1.64161,20.38568 -4.9331,25.5644 -3.29224,5.18376 -9.73811,7.7816 -19.30991,7.7816 l -35.314842,0 c -9.579353,0 -16.015913,-2.50491 -19.308475,-7.51199 -3.292318,-5.00842 -4.94376,-12.82607 -4.94376,-23.46368 l 0,-20.94978 c 0,-5.714308 1.474421,-9.552189 4.415222,-11.533854 2.948256,-1.975291 6.826142,-2.96193 11.657881,-2.96193 3.958711,0 5.943731,1.581424 5.943731,4.743097 0,1.228813 -0.445269,2.327233 -1.316536,3.297435 -0.879553,0.964082 -2.336365,1.445748 -4.357862,1.445748 -2.634048,0 -4.434005,0.399149 -5.397754,1.185621 -0.965094,0.789912 -1.456885,2.3757 -1.456885,4.745113 l 0,20.02712 c 0,8.52227 0.882827,14.235 2.634721,17.13823 1.761364,2.893 5.888397,4.3499 12.389664,4.3499 l 34.785885,0 c 6.59562,0 10.74965,-1.53992 12.4655,-4.61942 1.70696,-3.06808 2.56041,-9.48661 2.56041,-19.23904 l 0,-17.65679 c 0,-2.369413 -0.47545,-3.95587 -1.43769,-4.745113 -0.96509,-0.785717 -2.77426,-1.185621 -5.41697,-1.185621 -2.01127,0 -3.45808,-0.482167 -4.34124,-1.445748 -0.87964,-0.970454 -1.31645,-2.069125 -1.31645,-3.297435 0,-3.16159 2.02325,-4.743097 6.06449,-4.743097 4.8334,0 8.69963,0.986471 11.59296,2.96193 2.90256,1.981665 4.3406,5.819546 4.3406,11.533854 z"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/user32.png"
+       inkscape:export-xdpi="11.512491"
+       inkscape:export-ydpi="11.512491" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path44-6-5-4-0-2-7-7"
+       style="fill:none;stroke:#63ccf5;stroke-width:11.87083721;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       d="m 101.55626,44.342955 c 8.84789,0 16.01693,7.158878 16.01693,16.007272 0,8.847133 -7.16904,16.01943 -16.01693,16.01943 -8.856533,0 -16.015996,-7.172297 -16.015996,-16.01943 0,-8.848394 7.159463,-16.007272 16.015996,-16.007272 z"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/user32.png"
+       inkscape:export-xdpi="11.512491"
+       inkscape:export-ydpi="11.512491" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer21"
+     inkscape:label="settings"
+     style="display:none">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#7b6dbd;fill-opacity:1;stroke:none;display:inline"
+       d="m 94.283669,46.897626 c -2.80025,0 -5.102637,2.211317 -5.102637,5.011486 l 0,13.029925 c -1.713302,0.534896 -3.328904,1.137628 -4.920335,1.91346 l -9.111856,-9.020706 c -1.979892,-1.97997 -5.218426,-1.97997 -7.198319,0 l -8.656259,8.65626 c -1.979893,1.97997 -1.979893,5.218348 0,7.198318 l 8.929633,8.838483 c -0.858952,1.652717 -1.590105,3.402979 -2.186833,5.193709 l -12.574329,0 c -2.800247,0 -5.102636,2.302545 -5.102636,5.102636 l 0,12.300953 c 0,2.80017 2.302389,5.01149 5.102636,5.01149 l 12.574329,0 c 0.596494,1.78605 1.331234,3.54271 2.186833,5.19371 l -8.929633,8.92963 c -1.979893,1.97997 -1.979893,5.1272 0,7.10717 l 8.656259,8.74741 c 1.979815,1.97997 5.218271,1.97997 7.198319,0 l 9.111856,-9.11186 c 1.60032,0.78223 3.199314,1.46402 4.920335,2.00461 l 0,12.93885 c 3.12e-4,2.80002 2.302387,5.01141 5.102637,5.01141 l 12.300951,0 c 2.80002,0 5.10264,-2.21139 5.10264,-5.01141 l 0,-13.3033 c 1.5912,-0.55828 3.07658,-1.23704 4.55589,-2.00461 l 9.4763,9.47631 c 1.98013,1.97997 5.21851,1.97997 7.1984,0 l 8.65618,-8.74741 c 1.97981,-1.97997 1.97981,-5.1272 0,-7.10717 l -9.65853,-9.74968 c 0.69007,-1.41466 1.3204,-2.86137 1.82239,-4.37366 l 13.66775,0 c 2.79985,0 5.10256,-2.21132 5.10256,-5.01149 l 0,-12.300953 c 0,-2.800091 -2.30271,-5.102636 -5.10256,-5.102636 l -13.66775,0 c -0.50214,-1.514316 -1.13123,-2.957285 -1.82239,-4.373666 l 9.65853,-9.658526 c 1.97981,-1.97997 1.97981,-5.218348 0,-7.198318 l -8.65618,-8.65626 c -0.99003,-0.990024 -2.35299,-1.549013 -3.64477,-1.549013 -1.29217,0 -2.56368,0.559067 -3.55363,1.549013 l -9.4763,9.476302 c -1.47619,-0.765695 -2.96789,-1.447804 -4.55589,-2.004531 l 0,-13.39445 c 0,-2.800169 -2.30262,-5.011486 -5.10264,-5.011486 l -12.300951,0 z m 6.287201,36.811715 c 8.37681,0 15.21676,6.750285 15.21676,15.125686 0,8.369243 -6.83995,15.216763 -15.21676,15.216763 -8.366041,0 -15.125684,-6.84752 -15.125684,-15.216763 0,-8.375401 6.759643,-15.125686 15.125684,-15.125686 z"
+       id="rect9134-9-1"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/settings32.png"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-ydpi="11.362372" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer22"
+     inkscape:label="Save"
+     style="display:none">
+    <path
+       style="fill:#f24e9c;fill-opacity:1;stroke:none"
+       d="m 51.632857,74.915312 29.018296,29.018298 -11.150756,11.15077 22.380048,1.12692 22.397345,1.04906 -1.0967,-22.349717 -1.12698,-22.379991 -11.10306,11.103055 -29.018293,-29.018305 z"
+       id="path3149-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-ydpi="11.362372" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path13182-7"
+       sodipodi:cx="136.57718"
+       sodipodi:cy="133.41014"
+       sodipodi:rx="14.609001"
+       sodipodi:ry="14.609001"
+       d="m 151.18618,133.41014 a 14.609001,14.609001 0 1 1 -29.218,0 14.609001,14.609001 0 1 1 29.218,0 z"
+       transform="matrix(1.2093023,0,0,1.2093023,-35.041061,-30.980752)"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-ydpi="11.362372" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer24"
+     inkscape:label="full_screen_start"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.36514616000000011;stroke-miterlimit:4;stroke-opacity:1;display:inline"
+       d="m 43.724304,40.121173 121.191186,0 0,104.578417 -121.191186,0 z"
+       id="rect13802-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="11.362372"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path13804-6"
+       d="m 128.86081,118.64997 14.9555,14.95551 -5.7469,5.74691 11.53428,0.58079 11.5432,0.54067 -0.56522,-11.51864 -0.58083,-11.53425 -5.72232,5.72231 -14.95551,-14.95551 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       inkscape:export-ydpi="11.362372"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path13806-9"
+       d="M 80.271627,65.981224 65.316114,51.025722 71.063016,45.278809 59.528739,44.698015 47.985546,44.157348 l 0.56522,11.518646 0.580825,11.534241 5.722318,-5.722308 14.955513,14.955512 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       inkscape:export-ydpi="11.362372"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path13808-7"
+       d="m 128.7001,66.068598 14.9555,-14.955502 -5.7469,-5.746913 11.53428,-0.580794 11.5432,-0.540667 -0.56522,11.518646 -0.58083,11.534241 -5.72232,-5.722308 -14.95551,14.955512 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       inkscape:export-ydpi="11.362372"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path13810-6"
+       d="m 79.858551,118.81069 -14.955513,14.9555 5.746902,5.74691 -11.534277,0.58079 -11.543193,0.54067 0.56522,-11.51864 0.580825,-11.53425 5.722318,5.72231 14.955513,-14.95551 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       y="76.604889"
+       x="80.362572"
+       height="31.356531"
+       width="48.240826"
+       id="rect13812-4"
+       style="fill:#f24e9c;fill-opacity:1;stroke:none;display:inline" />
+  </g>
+  <g
+     inkscape:label="full_screen_start copy"
+     id="g13800"
+     inkscape:groupmode="layer"
+     style="display:none">
+    <path
+       style="fill:none;stroke:#f24e9c;stroke-width:4.36514616;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 43.724304,40.12117 121.191186,0 0,104.57842 -121.191186,0 z"
+       id="rect13802"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="11.362372"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path13804"
+       d="m 161.14689,130.01164 -14.9555,-14.95551 5.7469,-5.74691 -11.53428,-0.58079 -11.5432,-0.54067 0.56522,11.51864 0.58083,11.53425 5.72232,-5.72231 14.95551,14.95551 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       inkscape:export-ydpi="11.362372"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path13806"
+       d="m 47.985546,54.61956 14.955513,14.955502 -5.746902,5.746913 11.534277,0.580794 11.543193,0.540667 L 79.706407,64.92479 79.125582,53.390549 73.403264,59.112857 58.447751,44.157345 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       inkscape:export-ydpi="11.362372"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path13808"
+       d="m 160.98618,54.706934 -14.9555,14.955502 5.7469,5.746913 -11.53428,0.580794 -11.5432,0.540667 0.56522,-11.518646 0.58083,-11.534241 5.72232,5.722308 14.95551,-14.955512 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+    <path
+       inkscape:export-ydpi="11.362372"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/save32.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path13810"
+       d="m 47.57247,130.17234 14.955513,-14.9555 -5.746902,-5.74691 11.534277,-0.58079 11.543193,-0.54067 -0.56522,11.51864 -0.580825,11.53425 -5.722318,-5.72231 -14.955513,14.95551 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+    <rect
+       y="76.604889"
+       x="80.362572"
+       height="31.356531"
+       width="48.240826"
+       id="rect13812"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer23"
+     inkscape:label="Load"
+     style="display:none">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 120.39319,100.01815 91.374894,70.99985 102.52565,59.84908 80.145602,58.72216 57.748253,57.6731 l 1.0967,22.349719 1.12698,22.379991 11.10306,-11.103055 29.018297,29.018305 z"
+       id="path3149"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/load32.png"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-ydpi="11.362372" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#f24e9c;fill-opacity:1;stroke:none"
+       id="path13182"
+       sodipodi:cx="136.57718"
+       sodipodi:cy="133.41014"
+       sodipodi:rx="14.609001"
+       sodipodi:ry="14.609001"
+       d="m 151.18618,133.41014 a 14.609001,14.609001 0 1 1 -29.218,0 14.609001,14.609001 0 1 1 29.218,0 z"
+       transform="matrix(1.2093023,0,0,1.2093023,-35.041061,-30.980752)"
+       inkscape:export-filename="/home/s2e/projects/commotion/commotion-client/commotion_client/assets/images/toolbutton/load32.png"
+       inkscape:export-xdpi="11.362372"
+       inkscape:export-ydpi="11.362372" />
   </g>
   <g
      inkscape:groupmode="layer"
