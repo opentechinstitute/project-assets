@@ -1,0 +1,4 @@
+<h3>Additional Files in this Folder:</h3>
+{% capture currentdir %}{{ page.path | split: '/' | first | append: '/' }}{% endcapture %}
+{% assign files = file_set {{ currentdir }} %}
+{{ files }}
