@@ -186,21 +186,46 @@
 </div>
 <p>Welcome to OTI’s graphical assets library. Use the menu to browser for assets you wish to utilize.</p>
 
-<h1 id="naming-conventions-and-categories">Naming Conventions and Categories</h1>
+<h2 id="naming-conventions-and-categories">Naming Conventions and Categories</h2>
 
 <p>To manage OTI’s graphic assets, a Github repository will be used, and a web front-end will dynamically display the contents of that repository. All of the assets created for OTI’s projects will be stored here, for universal access and sharing.</p>
 
-<h1 id="types-of-files">Types of files</h1>
+<h2 id="types-of-files">Types of files</h2>
 
 <p>If possible, vector graphics in an open format such as Scalable Vector Graphics (.svg files) should be used. When bitmaps are necessary, a low-compression Portable Network Graphics (.png files) should be used.</p>
 
-<h1 id="licensing">Licensing</h1>
+<h2 id="licensing">Licensing</h2>
 
-<p>Graphic elements should be licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</p>
+<p>Graphic elements should be licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
 
-<h1 id="naming-convention">Naming convention</h1>
+<h2 id="naming-conventions">Naming conventions</h2>
 
 <p>Graphic assets should be named in a simple but descriptive manner. For instance, a file containing images of trees would be named something like “Trees.svg”. When there are groups or multiples of images, a type or number can be appended to the name, such as “Router_omnidirectional<em>01.svg”, “Router_directional</em>01.svg”, and “Router_directional_02.svg”.</p>
+
+<h2 id="adding-new-directories-and-index-pages">Adding new directories and index pages</h2>
+
+<p>This site is designed to provide as simple an interface as possible for adding new directories and files, while retaining all files in version control.</p>
+
+<p>To add a new folder or sub-folder, create the directory in the desired location within the site structure, add your files to it, then create an index.md page within the new folder using the template below:</p>
+
+<pre><code>---
+title: "New Category"
+layout: default
+lang: en
+menu:
+  name: new-category-no-spaces
+  parent: basic-elements
+  position: 1
+---
+{% image_set Commotion/Basic-Elements/New-Category/ %}
+{% file_set Commotion/Basic-Elements/New-Category/ %}
+</code></pre>
+
+<p>The example index.md file would go inside a folder called “New-Category” within the “Basic-Elements” folder. </p>
+
+<p>The menu section variables control where this page is provided in the left site menu. In this case as a sub-page of “Basic Elements”. </p>
+
+<p>Each index file content should contain two lines “image-set” and “file-set”, which call the respective plugins to list the images in this folder and then the foles which are not images in the same folder.</p>
 
 </div>
   </body> 
