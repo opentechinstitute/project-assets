@@ -1,0 +1,316 @@
+/* load the default Redmine stylesheet */
+@import url(../../../stylesheets/application.css) screen;
+@import url(print.css) print;
+
+@font-face {
+    font-family: 'AsapRegular';
+    src: url('../fonts/asap/Asap-Regular-webfont.eot');
+    src: url('../fonts/asap/Asap-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/asap/Asap-Regular-webfont.woff') format('woff'),
+         url('../fonts/asap/Asap-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/asap/Asap-Regular-webfont.svg#AsapRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AsapItalic';
+    src: url('../fonts/asap/Asap-Italic-webfont.eot');
+    src: url('../fonts/asap/Asap-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/asap/Asap-Italic-webfont.woff') format('woff'),
+         url('../fonts/asap/Asap-Italic-webfont.ttf') format('truetype'),
+         url('../fonts/asap/Asap-Italic-webfont.svg#AsapItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AsapBold';
+    src: url('../fonts/asap/Asap-Bold-webfont.eot');
+    src: url('../fonts/asap/Asap-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/asap/Asap-Bold-webfont.woff') format('woff'),
+         url('../fonts/asap/Asap-Bold-webfont.ttf') format('truetype'),
+         url('../fonts/asap/Asap-Bold-webfont.svg#AsapBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AsapBoldItalic';
+    src: url('../fonts/asap/Asap-BoldItalic-webfont.eot');
+    src: url('../fonts/asap/Asap-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/asap/Asap-BoldItalic-webfont.woff') format('woff'),
+         url('../fonts/asap/Asap-BoldItalic-webfont.ttf') format('truetype'),
+         url('../fonts/asap/Asap-BoldItalic-webfont.svg#AsapBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+body, p, dl, hr, ol, ul, pre, table, address, fieldset {
+  background: #ffffff;
+  font: 13px AsapRegular, Arial, sans-serif;
+  color: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: AsapBold;
+  font-weight:normal;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 2.8em;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+h3 {
+  font-size: 2.2em;
+}
+
+h4 {
+  font-size: 1.9em;
+}
+
+h5 {
+  font-size: 1.6em;
+}
+
+h6 {
+  font-size: 1.3em;
+}
+
+#home {
+  border-bottom:none;
+}
+
+.bigger {
+  font-size:1.5em;
+}
+
+.author-date {
+  font-family: AsapItalic;
+}
+
+a, a:link, a:visited, a:active, a:hover {
+  color: #4D4D4D;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: 3px solid #E8FF00;
+}
+
+a:focus { 
+    outline: none; 
+}
+
+#wrapper {
+  background:no-repeat url('../images/topbar.png');
+  background-size:100% 20px;
+}
+
+#wrapper2 {
+  padding-top:20px;
+  position:relative;
+}
+
+#top-menu {
+  height:140px;
+  background:#ffffff;
+  padding:0;
+}
+
+#top-menu a {
+  color:#000000;
+}
+
+#top-menu ul {
+  float:right;
+}
+
+#top-menu-inner {
+  /*background:url('../images/commotion_kbabout_measure-03.png') no-repeat;*/
+  height:100%;
+  position:relative;
+  top:20px;
+  z-index:99;
+}
+
+#header {
+  /*position:absolute;
+  top:160px;
+  right:0;*/
+  height:auto;
+  width:100%;
+  padding:40px 0 0;
+  min-height:77px;
+  background:#000000;
+}
+
+#header-inner, #top-menu-inner {
+  width:940px;
+  margin:0 auto;
+  position:relative;
+}
+
+#header-inner {
+  padding-bottom:1.4em;
+}
+
+#header h1 {
+  font-family:AsapRegular;
+}
+
+#header hr {
+  background-color:#FF739C;
+  max-width: 460px;
+  margin: 0 0 20px 0;
+}
+
+#quick-search {
+  position:relative;
+  bottom:104px;
+  right:63px;
+  z-index:100;
+}
+
+#quick-search label {
+  display:none;
+}
+
+#quick-search input {
+  width:300px;
+  background:url("../images/search.png") no-repeat scroll 4px 3px #E6E6E6;
+  border:0 none;
+  padding-left:25px;
+  -moz-box-sizing:border-box;
+  height:1.8em;
+  vertical-align:middle;
+  margin:0;
+}
+
+#quick-nav {
+  position:absolute;
+  right:0;
+  /*top:95px;*/
+  bottom:-43px;
+}
+
+#main {
+  width:960px;
+  margin:0 auto;
+  padding-top:60px;
+  background:url("../images/black_tri.png") no-repeat scroll center top;
+}
+
+#sidebar {
+  width:220px;
+  margin:0 10px;
+}
+
+#sidebar div {
+  margin-bottom:20px;
+}
+
+#page-menu, #page-menu p, #page-menu ul {
+  background:#FF739C;
+}
+
+#page-menu br {
+  display:none;
+}
+
+#page-menu h3 {
+  font-family:AsapBold;
+  padding:10px;
+  margin:0;
+  border:none;
+  color:#000000;
+}
+
+#page-menu form br, #page-menu form a {
+  display:inline;
+}
+
+#page-menu a, #sidebar a.selected {
+  padding:4px 10px;
+  display:block;
+}
+
+#page-menu p {
+  margin-top:0;
+  padding-top:4px;
+  padding-bottom:4px;
+}
+
+#page-menu p a, #page-menu h1 a {
+  display:inline;
+}
+
+#page-menu p #completed-versions a {
+  display:block;
+}
+
+#main-menu, #page-menu {
+  position:static;
+  width:100%;
+  bottom: auto;
+  left:auto;
+  margin-right:auto;
+}
+
+#main-menu ul {
+  background:#00FFCF;
+}
+
+#main-menu li {
+  float:none;
+  margin-right:0;
+}
+
+#main-menu li a, #page-menu a {
+  color:#000000;
+  font-weight:normal;
+}
+
+#main-menu li a:hover, #main-menu li a:focus, #main-menu li a.selected, #main-menu li a.selected:hover, #page-menu a:hover, #page-menu a:focus {
+  background-color: #E8FF00;
+  color:#000000;
+  border-bottom:none;
+  margin-left:auto;
+  border-radius:0;
+}
+
+#admin-menu li {
+  padding:0;
+}
+
+#admin-menu a {
+  padding-left:20px;
+}
+
+#content {
+  margin-right:240px;
+  width:700px;
+  border:none;
+}
+
+.nosidebar #content {
+  margin-right:0;
+}
+
+pre {
+  font-family: monospace;
+}
+
+code {
+  background-color: whiteSmoke;
+}
