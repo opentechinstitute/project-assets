@@ -64,7 +64,7 @@ module Jekyll
     def render(context)
       # Get the full path to the dir
       # Include a filter for all supported file types
-      full_path = File.join(context.registers[:site].config['source'], @path, "*.{txt,rtf,pdf,ai,pdf,doc,docx,ppt,pptx}")
+      full_path = File.join(context.registers[:site].config['source'], @path, "*.{txt,rtf,pdf,ai,indd,pdf,doc,docx,ppt,pptx,psd,eps,lst,otf}")
       # Start building tags
       source = "<div class='container'><h3 id='addtl-files'>Additional Files in this Folder:</h3>\n"
       source += "<#{@container_tag} class='file-set'>\n"
