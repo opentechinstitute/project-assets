@@ -17,8 +17,10 @@ h3 {
   width: 100%;   
 }
 .image {
-  width: 150px;
-  height: auto;
+  width: auto;
+  height: 15em;
+  max-height: 15em;
+  max-width: 15em;
 }
 .image-item {
   float: left;
