@@ -7,5 +7,8 @@ menu:
   parent: main
   position: 5
 ---
+<div class="container">
+{% directory_listing /Commotion/ %}
+</div>
 {% image_set Commotion/ %}
 {% file_set Commotion/ %}
