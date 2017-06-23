@@ -65,7 +65,7 @@ module Jekyll
       else
         puts "File not found: #{source_file}"
       end
-      s = "<li><a href=\"/#{page.parent}#{page.url}\">#{title}</a></li>"
+      s = "<li><a href=\"/#{page.parent}\">#{title}</a></li>"
     end
 
     def render(context)

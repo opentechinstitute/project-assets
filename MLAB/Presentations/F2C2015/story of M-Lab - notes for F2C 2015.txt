@@ -1,0 +1,85 @@
+﻿# 1
+Good afternoon everyone. I'm Chris Ritzo from New America's Open Technology Institute, and I'm here today to share a little bit about a project called Measurement Lab. A big thanks to Freedom 2 Connect for the invitation to be here with you today.
+
+#2
+Well, if you're here, you certainly know that we're at an amazing point in Internet history, with the FCC's decision last week to treat the Internet as a public utility and to open the door for more municipal broadband networks.  I want to just take a minute to recognize the effort of all the people and organizations who have worked tirelessly to get us to this point. All of you are fucking heros.
+
+The fight for strong net neutrality rules in the US has been one of the largest if not THE largest grassroots lobbying effort in history. It's truly awesome to be a part of that, both personally, and as a part of the Measurement Lab project.
+
+#3
+Alright, so let me tell you about Measurement Lab. Put your fist in the air if you already know about M-Lab. 
+
+Measurement Lab is a consortium of research, industry and public-interest partners dedicated to:
+Providing an open, verifiable measurement platform for global network performance
+Hosting the largest open Internet performance dataset on the planet.
+Creating visualizations and tools to help people, public institutions and regulators make sense of Internet performance and status
+
+#4
+M-Lab is run out of the Open Technology Institute at New America Foundation in Washington DC. We're a public-interest focused non-profit organization focused on partnering with communities, governments, regulators, researchers, industry and public interest groups, to promote affordable, universal, and ubiquitous communications networks.
+
+OTI coordinates M-Lab's global operations and engineering, and we work collaboratively with academics, industry, regulators and consortim members on research and analyses of our massive open dataset on network state and performance. 
+
+#5
+Last October, the M-Lab reasearch and operations team published a technical research report: 
+ISP Interconnection and its Impact on Consumer Internet Performance. 
+
+The public, open data in this report helped push the FCC's pendulum in the direction that led to last week's decision. Our data and analysis showed clear indicators of congestion and bad performance at the Interconnection points between consumer ISPs and Transit providers. We've since presented it to the FCC, NANOG, and at numerous international network operator gatherings. Before the M-Lab report, interconnection wasn't even on the FCC's radar. 
+
+Data informed decision making wins. Consumer protection wins.   
+
+But how did we get to this point? And why don't more people know about M-Lab? Well, like a lot of open source projects we can do a better job at telling our story. It's why I'm here today. 
+
+Let's go back to the beginning. 
+
+#6
+Back in 2008 there were a bunch of people talking to Vint Cerf about the possibillity of getting the academic community any data from Google about the Internet. They wanted to study the Internet from a consumer perspective-- and Google has lots of data, right? Well, policy folks connected with Google's production networking folks to see if releasing this data was even possible. The initial response from Google production networking unit was unequivocally, no. 
+
+Like most other companies, Google couldn't give out their data- they had an agreement with their users, and didn't believe in trying to anonymize it as others had tried to do. But fortunately we have people there who care about the Internet and who care about research. After all, Google is made of people too-- some pretty rad people I might add-- who are also interested in making the Internet a better place. So Google's production networking folks proposed that if Google coudn't provide the data outright, why couldn't they help build an internet scale platform to provide a means for gathering the data? 
+
+Thus the idea of m-lab was born.
+
+#7
+From a security standpoint, this platform couldn't be in the Google network. And Google wouldn't want to invent anything to maintain long term.  Enter Planet Lab. 
+
+Planet Lab provides a software stack and central provisioning services out of Princeton University's computer  science department. The platfom was similar to what M-Lab needed, but wasn't measuring the consumer internet.
+
+The question was posed- could the Planet Lab software stack be used to create a separate bubble of machines-- a private label PlanetLab? The answer of course, was yes, which made this whole proposed endeavor look more feasible. It was after that that the real planning for what was to become Measurement Lab began.
+
+#8
+A summit meeting in late 2008 was pulled together, where Vint, the academic networking community, Google folks, OTI staff, and others met with the goal of mapping out what this thing ought to be. 
+
+The first pitch for Measurement Lab was delivered at this meeting: the notion of a common base of experiement code instead of separate researtch silos, with a deployment base at Internet scale, having a deployment standard, etc. with open source tests and open, public data for use by researchers, regulators, and really anyone.
+
+This was the genesis of M-Lab. 
+
+Other details followed- like planning how it would work, what was the steering committee who was on it? What do we want to say about open data, embargoing data, what were the parameters for researcher to run experiments on the platform? Who should manage the platform? 
+All the decisions that go into starting a huge project. We could drone on in details, but here are a few highlights:
+The first M-Lab server, NUQ01 was put into service on Jan 28, 2009, in Mountain View
+Our first deployed test was NDT because it was open source already, and widely accepted.
+As of today, M-Lab has a global footprint- about 90 sites and over 200 total servers worldwide
+Last month, we had just over 1 million NDT tests submitted from about 596000 clients around the world
+
+M-Lab was started at a time when conditions were optimal. Fortunately, we've had advocates, funders and industry partners who believe good data science helps make for good decisions. We understand the state of the Internet because we measure consumer's experience of it.
+
+The pace of industry is completely mismatched to the pace of public interest, policy work on telecommunications issues. In the policy space, going from not existing 6 years ago to influencing the policy debate such that the White House would say something about interconnects and the FCC incorporating interconnection into policy is simply amazing.
+
+M-Lab started as a research platform, and our audience has been primarily academics, regulators and public interest groups. We're now working to expand our reach and our impact, and want you to be a part of that. 
+
+#9
+So what can you do? 
+Run NDT : http://www.measurementlab.net/tools/ndt 
+Test your home connection with our open source tool, and contibute to our global dataset. 
+Tell your friends.
+Use our data, tools and open visualizations
+Anyone can use M-Lab's public data, tools and open visualizations for free.
+M-Lab operates in the public interest- providing open data, open source tools, visualizations and documentation to support our own research, and yours.
+Use NDT as your speedtest, or integrate our tests and data into your applications
+Because M-Lab data is open and all of our tests are open source, you can integrate our data or our tests into your own applications, services, web-mashups and more. We provide source code, documentation, and implementation examples to enable you to leverage our data, tests and infrastructure.
+Make a contribution to support M-Lab
+If you represent a company or organization that believes in the values of a free and open Internet, and could benefit from M-Lab's data and tools, we'd love to have your monetary or in-kind support for things like:
+New measurement point servers and transit connectivity
+An M-Lab data hackathon or other event in your city
+Continued development of our open source tools
+New visualizations and APIs 
+#10
+A network that works well shouldn't need to be thought about. The fact that we're talking about it-- that Policy people are talking about it-- is itself a symptom that something continues to be broken. The fight isn't over yet, as I'm sure you're aware. M-Lab will continue to measure your experiences of the Internet, and provide independent, public-interest focused analysis, and we welcome your participation.
